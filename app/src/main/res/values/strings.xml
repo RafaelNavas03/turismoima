@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lugares turisticos</string>
+    <string name="lugares_tur_sticos_de_quevedo">Lugares Turísticos de Quevedo</string>
+    <string name="categoria">Categoria</string>
+    <string name="subcategoria">SubCategoria</string>
+    <string name="lugares_tur_sticos_de_quevedos">Lugares Turísticos de Quevedo</string>
+    <string name="categorias">Categoria</string>
+    <string name="subcategorias">SubCategoria</string>
+</resources>
